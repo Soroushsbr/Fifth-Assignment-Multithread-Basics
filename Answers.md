@@ -12,3 +12,4 @@ First it prints:
 * And after that it prints
 * `Back to: main`
 * The reason is that when thread_0’s task has finished, the thread will be terminated, and control will return to the main thread, similar to question 2.
+# Bye :3
